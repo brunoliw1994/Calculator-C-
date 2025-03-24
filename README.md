@@ -9,7 +9,7 @@ My purpose for writing this program was to:
 - Learn how to dynamically allocate and free memory using `new` and `delete`
 - Refresh the knowledge I acquired about C++ in Brasil in 2014
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Calculator C++ presentation](http://youtube.link.goes.here)
 
 # Development Environment
 
